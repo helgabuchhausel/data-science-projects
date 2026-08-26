@@ -10,6 +10,7 @@ DATASETS = [
     ("ranaghulamnabi/penguins", "data"),
     ("shakhnoza12/programming-languages-dataset", "data"),
     ("ayeshaseherr/winter-fashoin-trends", "data"),
+    ("joannanplkrk/its-raining-cats", "data/its-raining-cats"),
 ]
 
 def download_and_extract():
